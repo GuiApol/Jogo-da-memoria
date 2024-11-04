@@ -1,4 +1,4 @@
-# Jogo da Memória
+# Jogo da Memória<a href="[https://guiapol.github.io/Game-Detona-Ralph/](https://guiapol.github.io/Jogo-da-memoria/)" target="_blank">
 
 Bem-vindo ao Jogo da Memória, uma aplicação web divertida e educativa onde você pode testar suas habilidades de memorização. O objetivo é encontrar todos os pares de emojis no menor número de tentativas possível. Cada jogada consiste em virar dois cartões, e o jogo termina quando todos os pares forem encontrados.
 
