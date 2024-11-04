@@ -1,6 +1,11 @@
 # Jogo da Memória
 
-Bem-vindo ao Jogo da Memória, uma aplicação web divertida e educativa onde você pode testar suas habilidades de memorização. O objetivo é encontrar todos os pares de emojis no menor número de tentativas possível. Cada jogada consiste em virar dois cartões, e o jogo termina quando todos os pares forem encontrados.
+Bem-vindo ao Jogo da Memória, uma aplicação web divertida e educativa onde você pode testar suas habilidades de memorização. 
+O objetivo é encontrar todos os pares de emojis no menor número de tentativas possível. 
+Cada jogada consiste em virar dois cartões, e o jogo termina quando todos os pares forem encontrados.
+## 🖥 Preview:
+
+<p align="center"> <a href="https://guiapol.github.io/Jogo-da-memoria/" target="_blank"> <img src="./src/scripts/JOGO DA MEMORIA.png" title="screenshot" alt="screenshot do jogo"> </a> </p>
 
 # Funcionalidades
 Embaralhamento Aleatório: Cada vez que você reinicia o jogo, os cartões são embaralhados para uma nova experiência.
