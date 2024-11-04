@@ -5,6 +5,7 @@ const emojis = [
 let openCards = [];
 let attempts = 0;
 
+
 function startGame() {
     // Limpa o tabuleiro e as variáveis
     document.querySelector(".game").innerHTML = "";
@@ -25,6 +26,8 @@ function startGame() {
     }
 }
 
+
+function updateScore() { score = 1000 - (attempts * 10) - time; document.getElementById("score").textContent = `Pontuação: ${score}`; }
 function handleClick() {
     if (openCards.length < 2) {
         this.classList.add("boxOpen");
